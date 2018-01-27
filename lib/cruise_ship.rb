@@ -7,5 +7,7 @@
 # }
 
 def select_winner(passengers)
-  # add the code snippet here!
+  passengers.each do |key, value|
+    passengers.find[suite_a].starts_with?('A')
+  end
 end
